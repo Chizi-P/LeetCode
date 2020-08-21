@@ -10,7 +10,7 @@
 
 #### 比如这样，第529题扫雷游戏：
 
-```
+```javascript
 /**
  * @param {character[][]} board
  * @param {number[]} click
